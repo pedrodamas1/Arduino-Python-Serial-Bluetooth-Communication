@@ -19,3 +19,7 @@ https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-blue
 
 https://gist.github.com/geoom/99d1407992364c3f9553?fbclid=IwAR0ivbRToUozxZTRUn1FfOukW_DGm1tKjVq-boVImS4fD-8us3hZgyNGtsU
 
+Link to PyBluez, for future work:
+
+https://github.com/pybluez/pybluez/blob/master/examples/simple/inquiry.py
+
