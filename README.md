@@ -19,6 +19,8 @@ https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-blue
 
 https://gist.github.com/geoom/99d1407992364c3f9553?fbclid=IwAR0ivbRToUozxZTRUn1FfOukW_DGm1tKjVq-boVImS4fD-8us3hZgyNGtsU
 
+https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5
+
 Note that you should unwire the Bluetooth module completely before uploading the code to Arduino, and then reconnect it with the power off. Otherwise, you might get an error. Link to PyBluez, for future work:
 
 https://github.com/pybluez/pybluez/blob/master/examples/simple/inquiry.py
