@@ -21,7 +21,7 @@ https://gist.github.com/geoom/99d1407992364c3f9553?fbclid=IwAR0ivbRToUozxZTRUn1F
 
 https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5
 
-Note that you should unwire the Bluetooth module completely before uploading the code to Arduino, and then reconnect it with the power off. Otherwise, you might get an error. Link to PyBluez, for future work:
+Note that you should unwire the Bluetooth module completely before uploading the code to Arduino, and then reconnect it with the power off. Otherwise, you might get an error. Moreover, remember that the TX pin on the HC-05 goes to the RX pin on the Arduino, and the RX pin goes to the TX pin. Link to PyBluez, for future work:
 
 https://github.com/pybluez/pybluez/blob/master/examples/simple/inquiry.py
 
